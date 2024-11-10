@@ -1,0 +1,10 @@
+Mit den folgenden Schritten benutzt du mein Netzwerkverbindungstool...
+
+1. Öffne die Eingabeaufforderung 
+2. Wähle den korrekten Pfad mit dem Befehl |  cd C:\Users\infon\Documents\GitHub\Networktool\NetzwerkTool_Nolden\NetworkTools
+3. Starte das Programm mit dem Befehl | dotnet run
+
+With the following steps you will use my network connection tool... 
+1. Open the Command Prompt / terminal 
+2. Select the correct path using the command | cd C:\Users\infon\Documents\GitHub\Networktool\NetzwerkTool_Nolden\NetworkTools 
+3. Start the program with the command | dotnet run

@@ -1,0 +1,14 @@
+D:\programmierung\Netzwerktool_Nolden\networktools\bin\Debug\net8.0\NetworkTools.exe
+D:\programmierung\Netzwerktool_Nolden\networktools\bin\Debug\net8.0\NetworkTools.deps.json
+D:\programmierung\Netzwerktool_Nolden\networktools\bin\Debug\net8.0\NetworkTools.runtimeconfig.json
+D:\programmierung\Netzwerktool_Nolden\networktools\bin\Debug\net8.0\NetworkTools.dll
+D:\programmierung\Netzwerktool_Nolden\networktools\bin\Debug\net8.0\NetworkTools.pdb
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.AssemblyInfoInputs.cache
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.AssemblyInfo.cs
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.csproj.CoreCompileInputs.cache
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.dll
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\refint\NetworkTools.dll
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.pdb
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\NetworkTools.genruntimeconfig.cache
+D:\programmierung\Netzwerktool_Nolden\networktools\obj\Debug\net8.0\ref\NetworkTools.dll
